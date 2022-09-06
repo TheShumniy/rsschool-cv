@@ -7,9 +7,9 @@
 
 ----
 ## Objective
-* Learning something new. 
+* Learning something new.
 * Learning the JavaScript programming language
-* Becoming a web developer 
+* Becoming a web developer
 
 ----
 ## Skills
